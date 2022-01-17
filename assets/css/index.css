@@ -1,0 +1,11 @@
+.roundImage {
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+}
+.rectangleImage {
+    width: 100px;
+    float: left;
+    padding-left: 25px;
+    padding-right: 25px;
+}
